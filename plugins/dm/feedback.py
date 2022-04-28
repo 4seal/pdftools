@@ -21,14 +21,14 @@ ADMINS=Config.ADMINS
 
 UCantUse = "For Some Reason You Can't Use This Bot 🛑"
 
-feedbackMsg = "[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)"
+feedbackMsg = "[Write a feedback 📋](https://t.me/kippikbot)"
 
 button=InlineKeyboardMarkup(
         [
             [
                 InlineKeyboardButton(
                     "😉 Create your Own 😉",
-                    url="https://github.com/nabilanavab/ilovepdf"
+                    url="https://t.me/kippikbot"
                 )
             ]
        ]
