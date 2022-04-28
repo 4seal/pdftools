@@ -22,8 +22,8 @@ Some of the main features are:
 
 Update Channel: @ilovepdf_bot 💎
 
-[Source Code 🏆](https://github.com/nabilanavab/ilovepdf)
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)"""
+[Source Code 🏆](https://t.me/kippikbot)
+[Write a feedback 📋](https://t.me/kippikbot)"""
 
 UCantUse = "For Some Reason You Can't Use This Bot 🛑"
 
@@ -35,21 +35,21 @@ This Means You Need To Join The Below Mentioned Channel for Using Me!
 
 hit on "retry ♻️" after joining.. 😅"""
 
-aboutDev = """Owned By: @nabilanavab
-Update Channel: @ilovepdf_bot
+aboutDev = """Owned By :@kippikbot
+Update Channel: @kippikbot
 
 Now its easy to create your Own nabilanavab/ilovepdf bot
 
-[Source Code 🏆](https://github.com/nabilanavab/ilovepdf)
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)"""
+[Source Code 🏆](https://t.me/kippikbot)
+[Write a feedback 📋](https://t.me/kippikbot)"""
 
 exploreBotEdit = """
 [WORKING IN PROGRESS
 
-Join @ilovepdf_bot bot Updates 💎](https://t.me/ilovepdf_bot)
+Join  bot Updates 💎](https://t.me/hackersbash)
 """
 
-foolRefresh = "വിളച്ചിലെടുക്കല്ലേ കേട്ടോ 😐"
+foolRefresh = "kijana acha kiburi 😐"
 
 #--------------->
 #--------> config vars
@@ -161,7 +161,7 @@ async def _strtDevEdt(bot, callbackQuery):
                     [
                         InlineKeyboardButton(
                             "💎 Source Codes 💎",
-                            url = "https://github.com/nabilanavab/ilovepdf"
+                            url = "https://t.me/kippikbot"
                         ),
                         InlineKeyboardButton(
                             "Home 🏡",
